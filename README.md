@@ -1,6 +1,6 @@
 ## Olá, me chamo Bruno Henrique
 
-💻 Eu sou um desenvolvedor [Front-End | Back-End | Fullstack]
+💻 Eu sou um desenvolvedor Fullstack
 
 🎓 Eu estudo [Bacharelado em Ciências da Computação](https://www.unincor.br/index.php/cursos/graduacao/tres-coracoes/1188-ciencia-da-computacao-2) | [Formação Java Developer](https://www.dio.me/certificate/GD7RMMJC/share) ] @|[Unincor- Universidade Vale do Rio Verde](https://www.unincor.br/) | [DIO - Digital Inovation One](https://www.dio.me)|
 
